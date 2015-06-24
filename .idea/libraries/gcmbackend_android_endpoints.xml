@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gcmbackend-android-endpoints">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/gcmbackend/build/libs/gcmbackend-android-endpoints.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
